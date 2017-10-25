@@ -29,4 +29,5 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
-*.sublime-workspace
+.DS_Store
+
